@@ -6,10 +6,6 @@
 
 *Friend Finder* application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and the [Materialize](http://materializecss.com/) CSS framework on the front end.
 
-## Demo
-	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://fierce-fortress-60021.herokuapp.com/).
-
 ## Installation
 
 To install the application follow the instructions below:
@@ -20,9 +16,9 @@ To install the application follow the instructions below:
 	
 ## Running Locally
 
-To run the application locally and access it in your browser, first set the `PORT` environment variable to the value of your choice. An example is shown below.
+To run the application locally and access it in your browser, first set the `PORT` environment variable to the value of your choice. Such as.
 
-	export PORT=3030
+	export PORT=8080
 	
 After the `PORT` environment variable has been set, run the Node.js application with the command below.
 
