@@ -24,4 +24,9 @@ After the `PORT` environment variable has been set, run the Node.js application 
 
 	node server.js
 	
-The application will now be running locally on `PORT`, in this case that is p
+The application will now be running locally on `PORT` 8080.
+
+![image](https://user-images.githubusercontent.com/49127555/60761738-60bf3300-a003-11e9-90df-09c496f69a4a.png)
+![image](https://user-images.githubusercontent.com/49127555/60761742-73d20300-a003-11e9-9d3a-f78b6d11f23f.png)
+![image](https://user-images.githubusercontent.com/49127555/60761745-88160000-a003-11e9-885e-f5c18da4477f.png)
+
